@@ -1,6 +1,6 @@
 # BUFFER ANALYSIS
 ## Table of Content
-* What is Buffer Analysis
+* What is Buffer Analysis(#whatisbufferanalysis)
 * Use Cases
 * The objective of this project
 * Data Required
