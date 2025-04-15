@@ -60,6 +60,6 @@ The kind of buffer that was used in this project was the Multi-Ring Buffer Type.
           * ```
             import arcpy
              #Counting the number of affected buildings in each zone
-           Z1_Buildings = int(arcpy.GetCount_management("Z1 Buildings").getOutput(0))
-           print(f'The total Buildings affected within Zone 1 is {Z1_Buildings} buildings')  ```
+            Z1_Buildings = int(arcpy.GetCount_management("Z1 Buildings").getOutput(0))
+             print(f'The total Buildings affected within Zone 1 is {Z1_Buildings} buildings')  ```
     
