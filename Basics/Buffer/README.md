@@ -14,8 +14,8 @@
   It is used to determine features that falls within a particular geographic features as specified by the buffer radius and also it can use to determine the number of features that falls outside a particular geographic feature.
 
   Buffer can be in different forms such as :
-      * Point Buffer: it has to deal with the creating a circle around a geographic feature which is defined by the radius of the buffer. When the points are that close tho each other it  can overlap and as such it may be necessary to dissolve them to form one complex feature.
-      * Line Buffer: This kind of buffer deals with creating an area around a linear feature such as a road in order to know whether certain features falls within such range or not. For  instance, in constructing a road a buffer can be performed on a road to determine the number of buildings that falls within that area and the necessary safety measures will be  adheard to.
+    * Point Buffer: it has to deal with the creating a circle around a geographic feature which is defined by the radius of the buffer. When the points are that close tho each other it  can overlap and as such it may be necessary to dissolve them to form one complex feature.
+    * Line Buffer: This kind of buffer deals with creating an area around a linear feature such as a road in order to know whether certain features falls within such range or not. For  instance, in constructing a road a buffer can be performed on a road to determine the number of buildings that falls within that area and the necessary safety measures will be  adheard to.
     * Polygon Buffer: polygonal buffer looks at creating an area around a polygonal feature in order.
     * Multi-Ring Buffer: This kind is where you create multiple rings of buffer around a geographic feature which could be either point, line and polygon.
 ## Use Cases
