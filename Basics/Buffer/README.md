@@ -1,13 +1,13 @@
 # BUFFER ANALYSIS
 ## Table of Content
-* What is Buffer Analysis(#what-is-buffer-analysis)
-* Use Cases
-* The objective of this project
-* Data Required
-* Steps Involved
-* Output
-* Interpretation
-* Conclusion
+- [What is Buffer Analysis?](#what-is-buffer-analysis)
+- [Use Cases](#use-cases)
+- [The Objective of This Project](#the-objective-of-this-project)
+- [Data Required](#data-required)
+- [Steps Involved](#steps-involved)
+- [Output](#output)
+- [Interpretation](#interpretation)
+- [Conclusion](#conclusion)
 
   ## What is Buffer Analysis
   Buffer is defined as a region or an area created around or within a geographic feature such as a point, line, or polygon.
