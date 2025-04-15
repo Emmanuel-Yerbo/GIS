@@ -2,7 +2,7 @@
 ## Table of Content
 - [What is Buffer Analysis?](#what-is-buffer-analysis)
 - [Use Cases](#use-cases)
-- [The Objective of This Project](#the-objective-of-this-project)
+- [Objective of the project](#objective-of-the-project)
 - [Data Required](#data-required)
 - [Steps Involved](#steps-involved)
 - [Output](#output)
@@ -22,7 +22,7 @@
 1. Buffer can be used for gas explosion analysis, where the radius around the gas station will determine the extent of explosion.
 2. Buffer can be used in the conservation of ecologically sensitive areas such as Parks, ponds. It helps us to know the extent to which some activities such as deforetation can be carried out without having a negative influence on these ecological zones.
 
-## The objective of this project.
+## Objective of the project.
 The objective of this project is to assess the number of buildings that will be affected by gas explosion in the Accra New Town Community in Ghana.
 The hypothetical gas station that was used for this project was the total energy gas station found in Accra New Town.
 The kind of buffer that was used in this project was the Multi-Ring Buffer Type.
