@@ -6,6 +6,8 @@
 * Data Required
 * Steps Involved
 * Output
+* Interpretation
+* Conclusion
 
   ## What is Buffer Analysis
   Buffer is defined as a region or an area created around or within a geographic feature such as a point, line, or polygon.
@@ -86,6 +88,9 @@ The project made use of terms such as risk zone  1(Z1) upto risk zone 4(Z4). Thi
   * Z2 = Risky Areas, thus 1 km buffer
   * Z3 = Safe Areas, thus 1.5 km buffer
   * Z4 = Highly Safe Areas, thus 2 km buffer
-At the end of the project it was found out that, people who are likely to be affected by an explosion of 0.5 km from the gas station were **2558** buildings, those who will be affected with a 1 km of an explosion were **4968** buildings, moreover, there were **7308** buildings that would be affected by an explosion of 1.5 km and lastly, the buildings that were considered highly safe were **6384**. 
+At the end of the project it was found out that, people who are likely to be affected by an explosion of 0.5 km from the gas station were **2558** buildings, those who will be affected with a 1 km of an explosion were **4968** buildings, moreover, there were **7308** buildings that would be affected by an explosion of 1.5 km and lastly, the buildings that were considered highly safe were **6384**.
+
+## Conclusion
+The essence of this project was to find out the number of buildings that will be affected by gas explosion. From the interpretation part it can be concluded that the goal of this project was achieved. All said and done, no matter how simple buffer is it can help in policy decision making process that can be adopted by gas stations as a precautionary measure to reduce the amount of impact that an explosion can cause. 
 
 
