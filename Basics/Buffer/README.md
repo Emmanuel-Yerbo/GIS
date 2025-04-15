@@ -89,14 +89,14 @@ Chart showing the number of buildings affected by each buffer
 ![Image](https://github.com/user-attachments/assets/16e28902-ae81-4df0-8111-37e35c82a6f7)
 
 ## Interpretation
-The project made use of terms such as risk zone  1(Z1) upto risk zone 4(Z4). This was to determine the likely buildings which will be affected. 
+The project made use of terms such as risk zone whichs was basically the distance from the gas station to the distance that was specified. Also, it was based on the distance decay principle which is the farther you are from the gas station the safer you are. Four risk zones were identified, they are: 
   * Z1 = Highly Risky Areas, thus 0.5 km buffer
   * Z2 = Risky Areas, thus 1 km buffer
   * Z3 = Safe Areas, thus 1.5 km buffer
   * Z4 = Highly Safe Areas, thus 2 km buffer
-At the end of the project it was found out that, people who are likely to be affected by an explosion of 0.5 km from the gas station were **2558** buildings, those who will be affected with a 1 km of an explosion were **4968** buildings, moreover, there were **7308** buildings that would be affected by an explosion of 1.5 km and lastly, the buildings that were considered highly safe were **6384**.
+
+At the end of the project it was found out that, people who are likely to be affected by an explosion of 0.5 km from the gas station in Accra New Town were **2558** buildings, those who will be affected within a 1 km explosion were **4968** buildings. Moreover, there were **7308** buildings that would be affected by an explosion of 1.5 km and lastly, the buildings that were considered highly safe were **6384**.
 
 ## Conclusion
-The essence of this project was to find out the number of buildings that will be affected by gas explosion. From the interpretation part it can be concluded that the goal of this project was achieved. All said and done, no matter how simple buffer is it can help in policy decision making process that can be adopted by gas stations as a precautionary measure to reduce the amount of impact that an explosion can cause. 
-
+The essence of this project was to find out the number of buildings that will be affected by gas explosion. From the interpretation part it can be concluded that the goal of this project was achieved. All said and done, I will conclude by saying that "Buffer is Simple but Powerful"
 
