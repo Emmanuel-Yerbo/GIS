@@ -63,4 +63,29 @@ The kind of buffer that was used in this project was the Multi-Ring Buffer Type.
             Z1_Buildings = int(arcpy.GetCount_management("Z1 Buildings").getOutput(0))
              print(f'The total Buildings affected within Zone 1 is {Z1_Buildings} buildings')
             ```
-    
+        * The same can be used to determine the rest of the buildings in each clipped buffer.
+        * **Note**: Lets say, we have clipped buffers of the A, B , C and D. So far as buffer is concerned, B is the addition of A.
+        * To get only B = B - A, and the same way to get C only = C - B
+  10. Map Preparation:
+        * Create a new layout layer (Architectural C)
+        * Add the map layer
+        * Add basemap ("Dark Gray Canvas"
+        * Because of it dark nature, make sure most of the labels are changed to white to make it Visible.
+        * Add all other map cosmetics
+
+## Output
+The feature below shows the output of the final map produced during the process
+![Layout5](https://github.com/user-attachments/assets/aa3a1efd-2a20-473e-8883-281aff45c8a2)
+
+Chart showing the number of buildings affected by each buffer
+![Image](https://github.com/user-attachments/assets/16e28902-ae81-4df0-8111-37e35c82a6f7)
+
+## Interpretation
+The project made use of terms such as risk zone  1(Z1) upto risk zone 4(Z4). This was to determine the likely buildings which will be affected. 
+  * Z1 = Highly Risky Areas, thus 0.5 km buffer
+  * Z2 = Risky Areas, thus 1 km buffer
+  * Z3 = Safe Areas, thus 1.5 km buffer
+  * Z4 = Highly Safe Areas, thus 2 km buffer
+At the end of the project it was found out that, people who are likely to be affected by an explosion of 0.5 km from the gas station were **2558** buildings, those who will be affected with a 1 km of an explosion were **4968** buildings, moreover, there were **7308** buildings that would be affected by an explosion of 1.5 km and lastly, the buildings that were considered highly safe were **6384**. 
+
+
