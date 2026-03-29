@@ -35,9 +35,7 @@ Surprisingly, the **USA model performed better** in extracting building footprin
 
 Pretrained models save significant time and computational resources compared to training a model from scratch, making them incredibly valuable tools for geospatial applications and rapid analysis.
 
-## Resources
 
-*   [ArcGIS Pretrained Models](https://lnkd.in/eT7W9_-w)
 
 ---
 
