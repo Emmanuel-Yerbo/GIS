@@ -2,7 +2,8 @@
 
 An advanced geospatial cartography project analyzing urban infrastructure density, socioeconomic distribution, and transportation corridors in Ghana using NASA’s VIIRS (Visible Infrared Imaging Radiometer Suite) Black Marble nighttime lights data.
 
-![Ghana Nighttime Lights Map](output/ghana_nightlights_map.png)
+<img width="3400" height="4400" alt="ghana_nightlights_map" src="https://github.com/user-attachments/assets/5891939c-bfdc-450b-95b2-990bac476246" />
+
 
 ---
 
